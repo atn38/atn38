@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ✨✨ 
+I work on open, high-quality data & metadata. 
 
 <!--
 **atn38/atn38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
